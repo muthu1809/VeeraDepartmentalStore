@@ -13,20 +13,7 @@ wheat.price = 50;
 wheat.discount = 5; 
 dates.price = 30; 
 dates.discount = 4; 
-System.out.println(rice.price); 
-System.out.println(rice.discount);
-System.out.println(wheat.price); 
-System.out.println(wheat.discount);	
-System.out.println(dates.price); 
-System.out.println(dates.discount);
-System.out.println(dates.discount);
-System.out.println(dates.discount);
-System.out.println(dates.discount);
-
-
-
-
-	
+System.out.println("verified"); 
 rice.buy(); // Method Calling Statement
 wheat.buy(); 
 dates.buy(); 
