@@ -19,6 +19,14 @@ System.out.println(wheat.price);
 System.out.println(wheat.discount);	
 System.out.println(dates.price); 
 System.out.println(dates.discount);
+System.out.println(dates.discount);
+System.out.println(dates.discount);
+System.out.println(dates.discount);
+
+
+
+
+	
 rice.buy(); // Method Calling Statement
 wheat.buy(); 
 dates.buy(); 
